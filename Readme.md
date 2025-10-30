@@ -12,10 +12,10 @@
 
 ### How to Run:
 
-# python Problem-1.py
+### python Problem-1.py
 
-# python Problem-2.py
+### python Problem-2.py
 
-# python Problem-3.py
+### python Problem-3.py
 
-# python Problem-4.py
+### python Problem-4.py
